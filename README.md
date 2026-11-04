@@ -11,7 +11,7 @@
 5) the proportion of runs ending close to a separating equilibrium in the corresponding collapsed game
 6) the proportion of runs ending close to a pooling equilibrium in the corresponding collapsed game
 
-The eight .pkl files include all the simulation results reported in the paper. the 'load' function unpickles the data contained in each file, allowing them to be fed (as lists) into the 'show_results' function in 'generate figures'. 
+To generate results, run the desired simulation notebook. The 'save' function allows the output of the main simulation loop to be saved as a pkl file. The 'load' function unpickles the saved data, allowing them to be fed (as a nested list) into the 'show_results' function in 'generate figures'. Alternatively, the 'show_results' function can be copy-and-pasted directly into a simulation notebook and applied to the output.
 
 Required packages:
 
