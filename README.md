@@ -1,4 +1,4 @@
-'simulation-basic categorization game' provides code to simulate reinfrocement with punishment learning in the categorization game. This is the model described in section 3, and for which results are presented in section 4. 
+'simulation-basic categorization game' provides code to simulate reinforcement with punishment learning in the categorization game. This is the model described in section 3, and for which results are presented in section 4. 
 
 'simulation-categorization game with invention and forgetting' provides code to simulate learning in the categorization game on the modified dynamics featuring invention and forgetting. This is the model discussed in section 5.
 
